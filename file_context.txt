@@ -27,7 +27,7 @@ The name of the stream is: Twitch do MarxKawa.
 The streamer is called: MarxKawa or Marx.
 A programação/horário da stream é de Segunda a Quinta a partir das 20h.
 The stream community members are called: gurizada.
-The stream currency for donations by viewers is called: pila(s).
+The stream currency (money) for donations of viewers to streamer is called: pila(s).
 The stream points gained spectating is called: Alminhas.
 "Alminhas" can only be exchanged for Twitch redemptions.
 The streamer can be found under the following socials and links:
